@@ -47,13 +47,6 @@
     <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=mongo,sqlite,mysql,postgres"/> </a>
 </p>
 
-### 🔹Messaging Queues:ㅤㅤㅤㅤㅤㅤㅤㅤ
-<p style="padding:10px;"> 
-    <a style="padding-right:8px;" href="https://kafka.apache.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstawarczyk.pl%2Fwp-content%2Fuploads%2F2020%2F06%2Fkafka.png&f=1&nofb=1" height=65 width=50 /> </a>
-    <a style="padding-right:8px;" href="https://cloud.google.com/pubsub/docs/overview" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/google-cloud-pub-sub-logo.png" height=60 width=60 /> </a>
-    <a style="padding-right:8px;" href="https://www.rabbitmq.com" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" height=60 width=60 /> </a>
-    <a style="padding-right:8px;" href="https://aws.amazon.com/sqs/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/App_Services_copy_Amazon_SQS-512.png" height=65 width=70 /> </a>
-</p>
 
 ### 🔹Architectural Styles:ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
@@ -65,6 +58,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+  
+  <p align="center">
+  <a href="https://github.com/FireXtz">
+    <img src="https://github-readme-stats.vercel.app/api?username=FireXtz&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireXtz&theme=github-dark-blue&hide_border=true" />
+
+[//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=FireXtz&theme=react-dark" />)
+</a>
+</p>
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+</div>
 
 
 
@@ -72,7 +81,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarmison-paiva/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FireXtz)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FireXtz&show_icons=true&theme=radical)
+
 
 ### 💻 OS 
 
