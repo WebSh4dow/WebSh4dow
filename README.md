@@ -14,7 +14,7 @@
 
 <p style="padding:10px;">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-   <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=ts"/> </a>
+   <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=js,html,css,wasm"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 </p>
 
