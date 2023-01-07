@@ -37,7 +37,7 @@
   ### 🔹Frontend framework and libraries:ㅤ
 
 
-  <p style="padding:10px;">
+  <p style="padding:50px;">
     <a href="https://spring.io/projects/spring-framework" target="_blank"> 
       <img src="https://skills.thijs.gg/icons?i=vue,angular,next,html,css,bootstrap,jquery" height=40 width=50 /> 
     </a>
