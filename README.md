@@ -61,7 +61,7 @@
 </p>
 
 ### 🔹Social
-<p style="padding:10px;"> 
+<p style="padding:5px;"> 
     <a style="padding-right:8px;" href="https://www.linkedin.com/in/jarmison-paiva" target="_blank"> <img src="https://skills.thijs.gg/icons?i=linkedin" height=60 width=140 /> </a>
     <a style="padding-right:8px;" href="https://github.com/FireXtz" target="_blank"> <img src="https://skills.thijs.gg/icons?i=github" height=60 width=140 /> </a>
 </p>
