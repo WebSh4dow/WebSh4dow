@@ -13,7 +13,7 @@
 ### 🔹Backend Languages
 
 <p style="padding:10px;">
-    <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=java,python,go,js,typescript,nodejs"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=java,python,go,js,typescript"/> </a>
   </a>
 </p>
 
@@ -30,6 +30,8 @@
     </a>
     <a href="https://spring.io/projects/spring-security" target="_blank"> 
       <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=40 width=50 /> 
+  </a>
+   <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=nodejs"/> 
   </a>
 </p>
 
