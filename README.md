@@ -33,6 +33,17 @@
   </a>
 </p>
 
+
+  ### 🔹Frontend framework and libraries:ㅤ
+
+
+  <p style="padding:10px;">
+    <a href="https://spring.io/projects/spring-framework" target="_blank"> 
+      <img src="https://skills.thijs.gg/icons?i=vue,angular,next,html,css,bootstrap,jquery" height=40 width=50 /> 
+    </a>
+
+</p>
+
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
     <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=mongo,sqlite,mysql,postgres"/> </a>
