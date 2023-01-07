@@ -10,14 +10,14 @@
   
 # 🔥 Skills 🔥
 
-### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
+### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤ
 
 <p style="padding:10px;">
-    <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=java,python,js,typescript,nodejs"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=java,python,go,js,typescript,nodejs"/> </a>
   </a>
 </p>
 
-### 🔹Backend framework and libraries:ㅤ
+### 🔹Backend framework and libraries
 <p style="padding:10px;">
     <a href="https://spring.io/projects/spring-framework" target="_blank"> 
       <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" height=40 width=50 /> 
@@ -34,7 +34,7 @@
 </p>
 
 
-  ### 🔹Frontend framework and libraries:ㅤ
+  ### 🔹Frontend framework and libraries
 
 
  <p style="padding:10px;">
@@ -48,19 +48,19 @@
 </p>
 
 
-### 🔹Architectural Styles:ㅤㅤㅤㅤㅤㅤㅤㅤ
+### 🔹Architectural Stylesㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
     <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design" target="_blank"> <img src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" height=65 width=70 /> </a>
     <a style="padding-right:8px;" href="https://grpc.io/" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/white/grpc-horizontal-white.png" height=60 width=140 /> </a>
 </p>
 
 
-### 🔹OS Working:ㅤㅤㅤㅤㅤㅤㅤㅤ
+### 🔹OS Working
 <p style="padding:10px;"> 
     <a style="padding-right:8px;" href="https://grpc.io/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=linux" height=60 width=140 /> </a>
 </p>
 
-### 🔹Social:ㅤㅤㅤㅤㅤㅤㅤㅤ
+### 🔹Social
 <p style="padding:10px;"> 
     <a style="padding-right:8px;" href="https://www.linkedin.com/in/jarmison-paiva" target="_blank"> <img src="https://skills.thijs.gg/icons?i=linkedin" height=60 width=140 /> </a>
     <a style="padding-right:8px;" href="https://github.com/FireXtz" target="_blank"> <img src="https://skills.thijs.gg/icons?i=github" height=60 width=140 /> </a>
