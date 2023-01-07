@@ -35,9 +35,7 @@
 
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;"> 
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
-    <a style="padding:15px;" href="https://redis.com/" target="_blank"> <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" height=60 width=105 /> </a>
+    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=mongo,sqlite,mysql,postgres"/> </a>
 </p>
 
 ### 🔹Messaging Queues:ㅤㅤㅤㅤㅤㅤㅤㅤ
