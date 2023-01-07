@@ -14,6 +14,7 @@
 
 <p style="padding:10px;">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+   <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=ts"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 </p>
 
@@ -30,10 +31,7 @@
     </a>
     <a href="https://spring.io/projects/spring-security" target="_blank"> 
       <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=40 width=50 /> 
-    </a>
-    <a href="https://spring.io/projects/spring-cloud" target="_blank"> 
-      <img src="https://icons8.com.br/icon/vMqgHSToxrJR/typescript.png" height=40 width=50 /> 
-    </a>
+  </a>
 </p>
 
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
