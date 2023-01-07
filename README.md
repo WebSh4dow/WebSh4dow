@@ -54,9 +54,24 @@
     <a style="padding-right:8px;" href="https://grpc.io/" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/white/grpc-horizontal-white.png" height=60 width=140 /> </a>
 </p>
 
+
+### 🔹OS Working:ㅤㅤㅤㅤㅤㅤㅤㅤ
+<p style="padding:10px;"> 
+    <a style="padding-right:8px;" href="https://grpc.io/" target="_blank"> <img src="https://skills.thijs.gg/icons?i=linux" height=60 width=140 /> </a>
+</p>
+
+### 🔹Social:ㅤㅤㅤㅤㅤㅤㅤㅤ
+<p style="padding:10px;"> 
+    <a style="padding-right:8px;" href="https://www.linkedin.com/in/jarmison-paiva" target="_blank"> <img src="https://skills.thijs.gg/icons?i=linkedin" height=60 width=140 /> </a>
+    <a style="padding-right:8px;" href="https://github.com/FireXtz" target="_blank"> <img src="https://skills.thijs.gg/icons?i=github" height=60 width=140 /> </a>
+</p>
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+  
+  
+  
 
   
   <p align="center">
@@ -77,23 +92,6 @@
 
 
 
-### 📱 Social 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarmison-paiva/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FireXtz)
 
 
-
-### 💻 OS 
-
-<div style ="display: inline_block"> <br/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</div>
-
-<div style ="display: inline_block"> <br/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</div>
-
-<div style ="display: inline_block"> <br/>
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-</div>
 
