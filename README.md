@@ -40,7 +40,7 @@
 
 
  <p style="padding:10px;">
-    <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=vue,angular,next,html,css,bootstrap,jquery"/> </a>
+    <a href="" target="_blank"> <img src="https://skills.thijs.gg/icons?i=vue,angular,next,html,css,bootstrap,jquery"/> </a>
   </a>
 </p>
 
