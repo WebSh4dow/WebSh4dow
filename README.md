@@ -1,7 +1,7 @@
  <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Ola!+Eu+sou+Jarmison+Paiva+%F0%9F%91%8B%F0%9F%8F%BB;Sou+Desenvolvedor+de+Software+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;;possuo+2%2B+anos+de+experiência+%F0%9F%93%88;como+FullStack+Developer+%E2%9A%99%EF%B8%8F" alt="Jarmison" width="650" height="55">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Ola!+Eu+sou+Jarmison+Paiva+%F0%9F%91%8B%F0%9F%8F%BB;Sou+Desenvolvedor+de+Software+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;;possuo+1%1B+anos+de+experiência+%F0%9F%93%88;como+FullStack+Developer+%E2%9A%99%EF%B8%8F" alt="Jarmison" width="650" height="55">
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
