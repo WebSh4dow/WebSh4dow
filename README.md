@@ -31,7 +31,7 @@
     <a href="https://spring.io/projects/spring-security" target="_blank"> 
       <img src="https://skills.thijs.gg/icons?i=spring" height=40 width=50 /> 
   </a>
-   <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=nodejs"/> 
+   <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=nodejs" height=40 width=50/> 
   </a>
 </p>
 
