@@ -20,16 +20,16 @@
 ### 🔹Backend framework and libraries
 <p style="padding:10px;">
     <a href="https://spring.io/projects/spring-framework" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" height=40 width=50 /> 
+      <img src="https://skills.thijs.gg/icons?i=maven" height=40 width=50 /> 
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" height=40 width=50 /> 
+      <img src="https://skills.thijs.gg/icons?i=gradle" height=40 width=50 /> 
     </a>
     <a href="https://spring.io/projects/spring-data" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg" height=40 width=50 />
+      <img src="https://skills.thijs.gg/icons?i=hibernate" height=40 width=50 />
     </a>
     <a href="https://spring.io/projects/spring-security" target="_blank"> 
-      <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" height=40 width=50 /> 
+      <img src="https://skills.thijs.gg/icons?i=spring" height=40 width=50 /> 
   </a>
    <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=nodejs"/> 
   </a>
