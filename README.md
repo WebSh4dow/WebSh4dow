@@ -65,7 +65,7 @@
 ### 🔹Social
 <p style="padding:5px;"> 
     <a style="padding-right:8px;" href="https://www.linkedin.com/in/jarmison-paiva" target="_blank"> <img src="https://skills.thijs.gg/icons?i=linkedin" height=60 width=140 /> </a>
-    <a style="padding-right:8px;" href="https://github.com/FireXtz" target="_blank"> <img src="https://skills.thijs.gg/icons?i=github" height=60 width=140 /> </a>
+    <a style="padding-right:8px;" href="https://github.com/WebSh4dow" target="_blank"> <img src="https://skills.thijs.gg/icons?i=github" height=60 width=140 /> </a>
 </p>
 
 <p  align="center">
@@ -77,11 +77,11 @@
 
   
   <p align="center">
-  <a href="https://github.com/FireXtz">
-    <img src="https://github-readme-stats.vercel.app/api?username=FireXtz&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireXtz&theme=github-dark-blue&hide_border=true" />
+  <a href="https://github.com/WebSh4dow">
+    <img src="https://github-readme-stats.vercel.app/api?username=WebSh4dow&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebSh4dow&theme=github-dark-blue&hide_border=true" />
 
-[//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=FireXtz&theme=react-dark" />)
+[//]: # (    <img src="https://activity-graph.herokuapp.com/graph?username=WebSh4dow&theme=react-dark" />)
 </a>
 </p>
 
