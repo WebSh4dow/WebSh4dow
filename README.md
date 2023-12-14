@@ -13,7 +13,7 @@
 ### 🔹Backend Languages
 
 <p style="padding:10px;">
-    <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=java,python,go,js,typescript"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://skills.thijs.gg/icons?i=java,python,js,typescript"/> </a>
   </a>
 </p>
 
